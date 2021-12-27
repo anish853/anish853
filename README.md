@@ -5,18 +5,10 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
+👩‍💻 I'm currently working on MERN Projects
 
 
-<!--
-**anish853/anish853** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools 🛠
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on MERN Projects
-- 🌱 I’m currently learning Mongodb
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about nothing
-- 📫 How to reach me: ?
-- 😄 Pronouns: Ishu
-- ⚡ Fun fact: ?
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height = 50rem />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height = 50rem /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = 50rem /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height = 50rem /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height = 50rem /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height = 50rem/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height = 50rem /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height = 50rem /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height = 50rem /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height = 50rem /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height = 50rem /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height = 50rem />
