@@ -1,4 +1,4 @@
-## Hi, I'm Anish bhardwaj! 👋
+## Hi, I'm Anish Bhardwaj! 👋
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
